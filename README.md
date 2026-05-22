@@ -1,22 +1,117 @@
 <h1 align="center">Hi 👋, I'm Mohd Monish</h1>
-<p align="center">Currently, I am a student at Masai School learning Full Stack Web Development. Since childhood, I have always been excited to work on computers. After passing my intermediate examination, I decided to take up software development. During the pandemic, I decided to learn a few coding languages on my own and that is how I figured out my passion for this field, after which I joined Masai School and that is when I began my journey toward becoming a Full Stack Web Developer. I am highly skilled in HTML, CSS, JavaScript, ReactJS, Redux, and NodeJS. In my spare time, I like learning new kinds of technical skills and playing games.I would like to work in a dynamic organization that helps enhance my technical skills and knowledge. As a beginner, I am looking to start my career with an entry-level web-developer position with a reputed firm driven by technology. .</p>
 
+<h3 align="center">
+Full Stack MERN Developer | AI Integration | Scalable Web Applications
+</h3>
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/mohd2002monish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohd2002monish" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohd2002monish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd2002monish" height="30" width="40" /></a>
-<a href="https://instagram.com/mohdmonish__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohdmonish__" height="30" width="40" /></a>
-<a href="https://medium.com/@mohdmonish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohdmonish" height="30" width="40" /></a>
-</p>
- <h3 align="center"> <a href ="https://Mohd2002Monish.github.io"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Portfolio.hu_full_logo.png"  width="140" /></a>
-<a href ="https://drive.google.com/file/d/1lbTos3Yt-PbtC2tKSXfWKBYVqfwxi724/view"><img src="https://images.squarespace-cdn.com/content/v1/55e9ce26e4b0f0e15f28cc03/1555539083647-ZCYEGI5QXJTJPT4U5524/Resume-logo.png"  width="140" /></a></h3>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a
+I’m a Full Stack Developer with 3+ years of experience building scalable, production-grade web applications using the MERN stack. I specialize in backend architecture, AI-powered systems, automation workflows, and deployment infrastructure.
 </p>
 
+<p align="center">
+Currently working as a Full Stack MERN Developer at Empiric Infotech LLP, where I designed and developed an AI-powered Applicant Tracking System (ATS) from scratch using React.js, Node.js, Elasticsearch, Docker, DigitalOcean, Cloudflare, ChatGPT API, and n8n.
+</p>
 
- <div>
-            <p align="center"><img id="Github-sectionimg" class="Github-stats" background-color="black"
-                src="https://github-readme-streak-stats.herokuapp.com/?user=mohd2002monish&" alt="mohd2002monish" /></p>
-          </div>
+---
+
+## 🚀 About Me
+
+- 🔭 Currently building scalable AI-powered applications
+- ⚡ Experienced in full project ownership — development, deployment, monitoring, and maintenance
+- 🧠 Strong focus on backend systems, automation, and scalable architecture
+- 🌐 Experienced with production deployment using Docker & DigitalOcean
+- 🔎 Working with Elasticsearch for high-performance search systems
+- 🤖 Building AI workflow integrations using ChatGPT API and automation tools
+- 📦 Interested in Microservices, System Design, and Scalable Infrastructure
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,html,css,tailwind" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,digitalocean,linux" />
+</p>
+
+### Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+- Elasticsearch
+- N8N Automation
+- REST APIs
+- Microservices
+- System Design
+- TypeORM
+
+---
+
+## 💼 Experience
+
+### Full Stack MERN Developer — Empiric Infotech LLP
+**Dec 2024 - Present**
+
+- Built and maintained scalable Admin & User Panels
+- Developed an AI-powered ATS platform from scratch
+- Designed microservices-based backend architecture
+- Integrated ChatGPT API for workflow automation
+- Implemented Elasticsearch for advanced search & filtering
+- Containerized services using Docker
+- Managed deployments on DigitalOcean
+- Configured Cloudflare for security & performance optimization
+
+---
+
+### React.js Developer — Corenet Tech LTD
+**Jun 2024 - Dec 2024**
+
+- Delivered 4 production projects as primary frontend developer
+- Built scalable and reusable React.js components
+- Developed admin dashboards and business platforms
+
+---
+
+### Associate Software Engineer — Surties
+**Dec 2022 - Jun 2024**
+
+- Built role-based admin systems
+- Implemented secure authentication systems
+- Managed deployment and maintenance independently
+- Contributed to WordPress e-commerce systems
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/mohd2002monish" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://github.com/mohd2002monish" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://twitter.com/mohd2002monish" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=twitter" height="40" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohd2002monish&theme=tokyonight" />
+</p>
